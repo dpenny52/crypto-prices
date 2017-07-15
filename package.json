@@ -1,0 +1,23 @@
+{
+  "name": "crypto-prices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crypto-prices.js",
+  "dependencies": {
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpenny52/crypto-prices.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dpenny52/crypto-prices/issues"
+  },
+  "homepage": "https://github.com/dpenny52/crypto-prices#readme"
+}
